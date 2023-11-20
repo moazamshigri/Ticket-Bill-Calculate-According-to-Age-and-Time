@@ -8,3 +8,5 @@ If the showtime is in the evening ('E'), the ticket price is set to $15.
 If the age of the customer is below 18:
 If the showtime is in the morning ('M'), the ticket price is set to $8.
 If the showtime is in the evening ('E'), the ticket price is set to $10.
+
+This Code is Made By M Moazam and This is For Educational Purpose only.
