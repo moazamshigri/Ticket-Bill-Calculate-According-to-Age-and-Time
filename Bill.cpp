@@ -9,7 +9,7 @@ int main(){
 	scanf("%d",&age);
 	printf("\n Chose the Show Time");
 	printf("\n\n 1. Press (capital) M For Morning");
-	printf("\n 2. Press (capital) E For Evering \n \t");
+	printf("\n 2. Press (capital) E For Evening \n \t");
 	scanf(" %c",&showtime);
 	if(age>=18){
 		if(showtime == 'M'){
