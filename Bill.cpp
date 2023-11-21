@@ -30,7 +30,8 @@ int main(){
 		}
 	}
 	printf(" The total Bill is %d $",ticket_prize);
-	return 0;
+	
 	getch();
+	return 0;
 	
 }
