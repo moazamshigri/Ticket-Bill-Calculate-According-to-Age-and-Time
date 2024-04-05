@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+//#includde<math.h>
 
 int main(){
 	int age, ticket_prize;
